@@ -3,7 +3,7 @@
  */
 
 /**
- * @author kaNae
+ * @author naeka-k
  *
  */
 public class WhiteMain {
