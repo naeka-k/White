@@ -2,6 +2,8 @@
  *
  */
 
+package	nae.ka.test;
+
 /**
  * @author naeka-k
  *
