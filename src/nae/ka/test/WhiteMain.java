@@ -5,7 +5,7 @@
 package	nae.ka.test;
 
 /**
- * @author naeka-k
+ * @author naeka-ke
  *
  */
 public class WhiteMain {
@@ -14,7 +14,9 @@ public class WhiteMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("test");
+
+		WhiteClazz white = new WhiteClazz("”’");
+		System.out.println(white.getName());
 	}
 
 }
