@@ -15,7 +15,7 @@ public class WhiteMain {
 	 */
 	public static void main(String[] args) {
 
-		WhiteClazz white = new WhiteClazz("”’");
+		WhiteClazz white = new WhiteClazz("siro");
 		System.out.println(white.getName());
 	}
 
